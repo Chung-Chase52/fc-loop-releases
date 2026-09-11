@@ -1,0 +1,7 @@
+{
+  "versionCode": 14,
+  "versionName": "3.4",
+  "title": "FC LOOP v3.4",
+  "notes": "• 끊긴 무선 디버깅 연결 자동 복구\n• 이적시장 관심 선수 시세 감시 기능\n• 앱 자체 업데이트 알림 기능 추가",
+  "downloadUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases"
+}
