@@ -2,6 +2,7 @@
   "versionCode": 16,
   "versionName": "3.5",
   "title": "새 버전(v3.5) 출시 안내",
-  "notes": "• 무선 디버깅 중복 코드 입력 팝업 제거\n• 페어링 완료 시 자동 화면 닫기 지원\n• 이적시장 및 감독모드 안정성 개선",
-  "downloadUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases"
+  "notes": "• 최신 버전 인앱 다운로드 및 설치 지원\n• 무선 디버깅 중복 팝업 제거 및 상단 알림창 일원화\n• 페어링 완료 시 화면 자동 복귀",
+  "downloadUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases",
+  "apkUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases/download/v3.5/FC-LOOP-3.5.apk"
 }
