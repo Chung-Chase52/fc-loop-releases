@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "3.21",
-  "title": "새 버전(v3.21) 출시 안내",
-  "notes": "\u2022 \uc7a0\uae08\ud654\uba74\u00b7AOD \uc704\uc82f \ucd94\uac00 \u2014 \ud3f0\uc744 \ucf1c\uc9c0 \uc54a\uace0 \uc2dc\uc138 \ud655\uc778\n\u2022 \uc54c\ub9bc\uc744 \ubaa8\ub450 \ub2eb\uae30\ub85c \uc9c0\uc6cc\ub3c4 \ub2e4\uc2dc \ub728\ub3c4\ub85d \uc218\uc815",
+  "versionCode": 33,
+  "versionName": "3.22",
+  "title": "새 버전(v3.22) 출시 안내",
+  "notes": "\u2022 \ubc31\uadf8\ub77c\uc6b4\ub4dc \ubaa8\ub4dc\uc5d0\uc11c \ud654\uba74\uc774 \uc790\ub3d9\uc73c\ub85c \uaebc\uc9c0\uc9c0 \uc54a\ub358 \ubb38\uc81c \uc218\uc815",
   "downloadUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases",
-  "apkUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases/download/v3.21/FC-LOOP-3.21.apk"
+  "apkUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases/download/v3.22/FC-LOOP-3.22.apk"
 }
