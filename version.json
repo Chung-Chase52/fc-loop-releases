@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "3.23",
-  "title": "새 버전(v3.23) 출시 안내",
-  "notes": "\u2022 \ubc31\uadf8\ub77c\uc6b4\ub4dc \ubaa8\ub4dc\uc5d0\uc11c \ud654\uba74 \uc790\ub3d9 \uaebc\uc9d0\uc774 \ub9c9\ud788\ub358 \ubb38\uc81c \uc218\uc815\n\u2022 \uc9c4\ub2e8 \uae30\ub85d \ucd94\uac00: \uc9c4\ud589\uc774 \uba48\ucd94\uba74 \uc6d0\uc778 \uc815\ubcf4\ub97c \uc790\ub3d9\uc73c\ub85c \ub0a8\uae41\ub2c8\ub2e4\n\u2022 \uc124\uc815(\u2699) > \uc9c4\ub2e8 \ud30c\uc77c \ubcf4\ub0b4\uae30: \ub85c\uadf8\ub97c \uce74\ud1a1 \ub4f1\uc73c\ub85c \ubc14\ub85c \ubcf4\ub0bc \uc218 \uc788\uc2b5\ub2c8\ub2e4",
+  "versionCode": 35,
+  "versionName": "3.24",
+  "title": "새 버전(v3.24) 출시 안내",
+  "notes": "\u2022 \ubc31\uadf8\ub77c\uc6b4\ub4dc \ubaa8\ub4dc\uc5d0\uc11c \ud654\uba74 \ud06c\uae30 \uc548\ub0b4\ucc3d \ub54c\ubb38\uc5d0 \uc9c4\ud589\uc774 \uba48\ucd94\ub294 \ubb38\uc81c \uc218\uc815\n\u2022 \uc548\ub0b4\ucc3d\uc744 \uc790\ub3d9\uc73c\ub85c \ub2eb\uace0 \ud654\uba74\uc744 \ub2e4\uc2dc \ud655\uc778\ud55c \ub4a4 \uacbd\uae30\ub97c \uc9c4\ud589\ud569\ub2c8\ub2e4",
   "downloadUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases",
-  "apkUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases/download/v3.23/FC-LOOP-3.23.apk"
+  "apkUrl": "https://github.com/Chung-Chase52/fc-loop-releases/releases/download/v3.24/FC-LOOP-3.24.apk"
 }
